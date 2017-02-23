@@ -1,0 +1,4 @@
+I created a superuser
+user: squares
+email: squares@squares.com
+password: djangogirls
